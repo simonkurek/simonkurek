@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">Back-End Developer (with some Front-End :D</h3>
+<h3 align="center">Back-End Developer</h3>
+<h4 align="center">with some Front-End :D</h4>
 
 <p align="center">📫 How to reach me <a href="mailto:simonkurek@protonmail.com">simonkurek@protonmail.com</a></p>
 
