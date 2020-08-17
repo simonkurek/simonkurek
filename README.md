@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Back-End Developer</h3>
-<p align="center">with some Front-End :D</p>
+<p align="center">with a bit of Front-End :D</p>
 
 <p align="center">📝 I regulary write articles on <a href="szymonkurek.pl">szymonkurek.pl</a></p>
 
