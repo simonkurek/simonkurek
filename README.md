@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">Back-End Developer</h3>
+<h3 align="center">Back-End Developer (with some Front-End :D</h3>
 
-<p align="center">📫 How to reach me **simonkurek@protonmail.com**</p>
+<p align="center">📫 How to reach me <a href="mailto:simonkurek@protonmail.com">simonkurek@protonmail.com</a></p>
 
-<p align="center">📝 I regulary write articles on [szymonkurek.pl](szymonkurek.pl)</p>
+<p align="center">📝 I regulary write articles on <a href="szymonkurek.pl">szymonkurek.pl</a></p>
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
