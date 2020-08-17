@@ -2,7 +2,7 @@
 <h3 align="center">Back-End Developer</h3>
 <p align="center">with a bit of Front-End :D</p>
 
-<p align="center">📝 I regulary write articles on <a href="szymonkurek.pl">szymonkurek.pl</a></p>
+<p align="center">📝 I regulary write articles on <a href="https://szymonkurek.pl">szymonkurek.pl</a></p>
 
 <p align="center">📫 How to reach me <a href="mailto:simonkurek@protonmail.com">simonkurek@protonmail.com</a></p>
 
