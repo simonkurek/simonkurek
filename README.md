@@ -4,7 +4,7 @@
 
 <p align="center">📝 I regulary write articles on <a href="https://szymonkurek.pl">szymonkurek.pl</a></p>
 <p align="center">📫 How to reach me <a href="mailto:simonkurek@protonmail.com">simonkurek@protonmail.com</a></p>
-<p align="center">🔭 I’m currently working on <a href="https://github.com/simonkurek/blog-api">[Zlacza]</a></p>
+<p align="center">🔭 I’m currently working on <a href="https://github.com/simonkurek/connectors">[Zlacza]</a></p>
 <p align="center">🌱 I’m currently learning **React**</p>
 <p align="center">👨‍💻 All of my projects are available <a href="https://github.com/simonkurek?tab=repositories">here</a></p>
 <p align="center">⚡ Fun fact **Java -> Python**</p>
