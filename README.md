@@ -3,14 +3,17 @@
 <p align="center">with a bit of Front-End :D</p>
 
 <p align="center">📝 I regulary write articles on <a href="https://szymonkurek.pl">szymonkurek.pl</a></p>
-
 <p align="center">📫 How to reach me <a href="mailto:simonkurek@protonmail.com">simonkurek@protonmail.com</a></p>
+<p align="center">🔭 I’m currently working on [Zlacza](https://github.com/simonkurek/blog-api)</p>
+<p align="center">🌱 I’m currently learning **React**</p>
+<p align="center">👨‍💻 All of my projects are available at [https://github.com/simonkurek?tab=repositories](https://github.com/simonkurek?tab=repositories)</p>
+<p align="center">⚡ Fun fact **Java -> Python**</p>
 
 <p align="center">
 <h4 align="center">Back-End</h4>
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></p>
 </p>
 
 <p align="center">
@@ -19,6 +22,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
 <p align="center">
