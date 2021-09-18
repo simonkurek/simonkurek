@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Back-End Developer</h3>
 
-- 🔭 I’m currently working on [Sizo](https://github.com/Sizo-Gradebook)
-
-- 🌱 I’m currently learning **FastAPI, GraphQL**
-
 - 👨‍💻 All of my projects are available at [https://github.com/simonkurek?tab=repositories](https://github.com/simonkurek?tab=repositories)
-
-- 📝 I regulary write articles on [szymonkurek.pl](szymonkurek.pl)
 
 - 💬 Ask me about **Python**
 
